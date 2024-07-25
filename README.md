@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/MarwaDawood/FrontendMentor_Blogpost)
+- Solution URL: [Code](https://github.com/MarwaDawood/FrontendMentor_Blogpost)
 - Live Site URL: [Live site](https://frontendmentor-challengeblogpost.netlify.app/)
 
 ## My process

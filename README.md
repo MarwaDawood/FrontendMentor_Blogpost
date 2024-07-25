@@ -1,1 +1,0 @@
-# FrontendMentor_Blogpost

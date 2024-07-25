@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution] (https://github.com/MarwaDawood/FrontendMentor_Blogpost)
-- Live Site URL: [Live site] (https://frontendmentor-challengeblogpost.netlify.app/)
+- Solution URL: [Solution](https://github.com/MarwaDawood/FrontendMentor_Blogpost)
+- Live Site URL: [Live site](https://frontendmentor-challengeblogpost.netlify.app/)
 
 ## My process
 
@@ -41,7 +41,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [marwadawood.netlify.app)](https://marwadawood.netlify.app/)
+- Website - [marwadawood.netlify.app](https://marwadawood.netlify.app/)
 - Frontend Mentor - [@MarwaDawood](https://www.frontendmentor.io/profile/MarwaDawood)
 
 
